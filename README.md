@@ -56,20 +56,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankaushik541&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankaushik541&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankaushik541&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryankaushik541&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
