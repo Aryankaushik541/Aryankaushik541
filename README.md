@@ -1,215 +1,337 @@
-<h1 align="center">Hi 👋, I'm Aryan Kaushik</h1>
-<h3 align="center">Full Stack Developer | React • Django • Node.js | Building Scalable Web Applications</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryankaushik541&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aryankaushik541?label=Followers&style=social" alt="followers" />
-</p>
+# 👋 Hi, I'm Aryan Kaushik
 
----
+### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
 
-## 🚀 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=aryankaushik541&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Aryankaushik541)
+[![GitHub Followers](https://img.shields.io/github/followers/aryankaushik541?label=Followers&style=for-the-badge&color=blue)](https://github.com/Aryankaushik541)
+[![Email](https://img.shields.io/badge/Email-aryankaushik541%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aryankaushik541@gmail.com)
 
-- 🔭 Currently working on **Full Stack E-Commerce Platforms** with React & Django
-- 🌱 Exploring **Advanced React Patterns, Redux Toolkit, and Django REST Framework**
-- 💼 Open to **Full Stack Developer** opportunities
-- 💬 Ask me about **React, Django, Node.js, MongoDB, REST APIs**
-- 📫 Reach me at **aryankaushik541@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code ☕️**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 About Me
 
-### Frontend
+```typescript
+const aryanKaushik = {
+    title: "Full Stack Developer",
+    location: "India 🇮🇳",
+    currentFocus: "Building AI-powered web applications",
+    expertise: ["React.js", "Django", "Node.js", "AI Integration", "Algorithm Design"],
+    passion: "Transforming ideas into scalable, production-ready solutions",
+    availability: "Open to Full-Time Opportunities & Freelance Projects",
+    motto: "Code with purpose, build with passion ⚡"
+};
+```
+
+- 🔭 **Currently Working On:** AI-powered platforms and genetic algorithms
+- 🌱 **Learning:** Advanced AI/ML integration, System Design, Cloud Architecture
+- 💼 **Looking For:** Full Stack Developer / Software Engineer roles
+- 💡 **Interests:** Artificial Intelligence, Web Development, Algorithm Optimization
+- 📫 **Reach Me:** aryankaushik541@gmail.com
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Backend
+### Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Database
+### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Others
+### AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
 
 ---
 
+## 🌟 Featured Projects
 
+### 🤖 [White Beat AI Platform](https://github.com/Aryankaushik541/white-beat-frontend)
+**AI-Powered Content Generation Platform**
 
+<div align="left">
 
-## 💼 Featured Projects
+**Tech Stack:** React • Django • OpenAI API • JWT Authentication • Material-UI
 
-### 🛒 [Neverend Lifestyle - Full Stack E-Commerce](https://github.com/Aryankaushik541/Website)
-**Tech Stack:** React, Vite, Redux Toolkit, Django REST Framework, JWT, Firebase, Tailwind CSS, Material-UI
+**Key Features:**
+- 🎨 AI-powered content generation using OpenAI GPT models
+- 👥 Dual dashboard system (User & Admin)
+- 🔐 Secure JWT authentication with role-based access
+- 📊 Real-time analytics and usage tracking
+- 🎯 Modern, responsive UI with Material-UI components
 
-A complete lifestyle brand e-commerce platform with advanced features:
-- JWT authentication with Firebase integration
-- Redux Toolkit state management
-- Material-UI & Tailwind CSS responsive design
-- Django REST API backend with CORS support
-- Google reCAPTCHA security
-- Framer Motion animations
+**Impact:** Built a production-ready AI platform enabling users to generate high-quality content with advanced AI models
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/Website)
+[![Frontend](https://img.shields.io/badge/Frontend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/white-beat-frontend)
+[![Backend](https://img.shields.io/badge/Backend_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/white-beat-backend)
+
+</div>
 
 ---
 
-### 🛍️ [Modern E-Commerce Platform](https://github.com/Aryankaushik541/ecommerce-react-frontend)
-**Tech Stack:** React, React Router, Axios, Framer Motion
+### 🧬 [Genetic Algorithm Optimizer](https://github.com/Aryankaushik541/Genetic-Algorithm)
+**Advanced Optimization Using Evolutionary Computing**
 
-Modern e-commerce frontend with creative themes and smooth transitions:
-- Dynamic background transitions
-- Admin panel for product management
-- Responsive design with smooth animations
-- Shopping cart functionality
+<div align="left">
 
-[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/ecommerce-react-frontend)
-[![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/ecommerce-django-backend)
+**Tech Stack:** Python • NumPy • Matplotlib • Algorithm Design
+
+**Key Features:**
+- 🔬 Implementation of genetic algorithm for optimization problems
+- 📈 Visualization of evolution and convergence
+- ⚡ Efficient population management and selection strategies
+- 🎯 Customizable fitness functions and genetic operators
+
+**Impact:** Demonstrated strong understanding of computational intelligence and algorithm optimization
+
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/Genetic-Algorithm)
+
+</div>
 
 ---
 
 ### 👥 [User Management System - PurpleMerit Assessment](https://github.com/Aryankaushik541/user-management-system-purplemerit)
-**Tech Stack:** Node.js, Express, MongoDB, React, JWT, RBAC
+**Enterprise-Grade User Management with RBAC**
 
-Full-stack user management system with role-based access control:
-- JWT authentication & authorization
-- Role-Based Access Control (Admin, Manager, User)
-- RESTful API with Express.js
-- MongoDB database with Mongoose ODM
-- React frontend with modern UI
+<div align="left">
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/user-management-system-purplemerit)
+**Tech Stack:** Node.js • Express • MongoDB • React • JWT • RBAC
 
----
+**Key Features:**
+- 🔐 Complete authentication & authorization system
+- 👔 Role-Based Access Control (Admin, Manager, User)
+- 🎨 Modern React frontend with intuitive UI
+- 📡 RESTful API with comprehensive error handling
+- 🗄️ MongoDB with Mongoose ODM for data persistence
 
-### 👕 [T-Shirt Store - Full Stack](https://github.com/Aryankaushik541/tshirt-store-frontend)
-**Tech Stack:** React, Django REST Framework, Payment Integration
+**Impact:** Successfully completed technical assessment demonstrating full-stack expertise
 
-Complete e-commerce solution for T-shirt store:
-- Product catalog with filtering
-- Shopping cart & checkout
-- Payment gateway integration
-- Order management system
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/user-management-system-purplemerit)
 
-[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/tshirt-store-frontend)
-[![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/tshirt-store-backend)
+</div>
 
 ---
 
-## 📈 Contribution Graph
+### 🛒 [Neverend Lifestyle - E-Commerce Platform](https://github.com/Aryankaushik541/Website)
+**Full-Featured Lifestyle Brand E-Commerce**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryankaushik541&theme=radical" alt="Contribution Graph" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryankaushik541&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryankaushik541&theme=radical" alt="Most Commit Language" />
-</p>
+**Tech Stack:** React • Redux Toolkit • Django REST • Firebase • Tailwind CSS
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryankaushik541&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryankaushik541&theme=radical" alt="Productive Time" />
-</p>
+**Key Features:**
+- 🛍️ Complete e-commerce functionality (cart, checkout, orders)
+- 🔒 Firebase authentication with JWT integration
+- 🎨 Beautiful UI with Tailwind CSS & Material-UI
+- 📱 Fully responsive design with smooth animations
+- 🔐 Google reCAPTCHA security integration
 
----
+**Impact:** Built a production-ready e-commerce platform with modern tech stack
 
-## 🎯 Key Achievements
+[![View Project](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/Website)
 
-- ✅ Built **4+ Full Stack E-Commerce Applications** with React & Django
-- ✅ Implemented **JWT Authentication & RBAC** in production applications
-- ✅ Integrated **Payment Gateways** and **Firebase** services
-- ✅ Developed **RESTful APIs** with Django REST Framework & Express.js
-- ✅ Created **Responsive UIs** with Material-UI, Tailwind CSS, and Framer Motion
-- ✅ Managed **State** with Redux Toolkit and Context API
-- ✅ Worked with **MongoDB, PostgreSQL, and SQLite** databases
+</div>
 
 ---
 
-## 📫 Connect With Me
+### 🎨 [Modern E-Commerce Platform](https://github.com/Aryankaushik541/ecommerce-react-frontend)
+**Creative E-Commerce with Admin Panel**
 
-<p align="center">
-  <a href="mailto:aryankaushik541@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Aryankaushik541">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/aryan-kaushik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="left">
+
+**Tech Stack:** React • Django REST • Framer Motion • Axios
+
+**Key Features:**
+- 🎭 Dynamic background transitions and animations
+- 👨‍💼 Complete admin panel for product management
+- 🛒 Shopping cart with real-time updates
+- 📦 Product catalog with filtering and search
+
+[![Frontend](https://img.shields.io/badge/Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/ecommerce-react-frontend)
+[![Backend](https://img.shields.io/badge/Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541/ecommerce-django-backend)
+
+</div>
 
 ---
 
-## 💡 What I Bring to the Table
+## 📊 GitHub Analytics
 
-```javascript
-const aryanKaushik = {
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontend: {
-            js: ["React", "Redux Toolkit", "Vite"],
-            css: ["Tailwind CSS", "Material-UI", "Framer Motion"]
-        },
-        backend: {
-            python: ["Django", "Django REST Framework"],
-            js: ["Node.js", "Express.js"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
-        tools: ["Git", "GitHub", "Postman", "Firebase"]
-    },
-    architecture: ["REST APIs", "JWT Authentication", "RBAC", "MVC"],
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryankaushik541&theme=radical" alt="Contribution Graph" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryankaushik541&theme=radical" alt="Repos per Language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryankaushik541&theme=radical" alt="Most Commit Language" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryankaushik541&theme=radical" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryankaushik541&theme=radical" alt="Productive Time" width="49%" />
+
+</div>
+
+---
+
+## 🏆 Key Achievements & Skills
+
+<div align="center">
+
+| 🎯 Achievement | 📝 Description |
+|:---|:---|
+| **AI Integration** | Built production AI platform with OpenAI API integration |
+| **Full Stack Mastery** | Developed 5+ complete full-stack applications |
+| **Algorithm Design** | Implemented genetic algorithms and optimization techniques |
+| **Authentication Expert** | JWT, RBAC, Firebase Auth in multiple projects |
+| **Modern UI/UX** | Material-UI, Tailwind CSS, Framer Motion animations |
+| **API Development** | RESTful APIs with Django REST Framework & Express.js |
+| **Database Management** | MongoDB, PostgreSQL, MySQL, SQLite |
+| **State Management** | Redux Toolkit, Context API, React Query |
+| **Payment Integration** | Integrated payment gateways in e-commerce platforms |
+| **Responsive Design** | Mobile-first, cross-browser compatible applications |
+
+</div>
+
+---
+
+## 💼 What I Bring to Your Team
+
+```python
+class AryanKaushik:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.experience = {
+            "frontend": ["React", "Redux", "TypeScript", "Modern UI Libraries"],
+            "backend": ["Django", "Node.js", "Express", "REST APIs"],
+            "ai_ml": ["OpenAI Integration", "Genetic Algorithms", "AI-powered Apps"],
+            "databases": ["MongoDB", "PostgreSQL", "MySQL"],
+            "tools": ["Git", "GitHub", "Postman", "Firebase"]
+        }
+        
+    def strengths(self):
+        return [
+            "🚀 Quick learner with strong problem-solving skills",
+            "💡 Ability to translate business requirements into technical solutions",
+            "🤝 Excellent team collaboration and communication",
+            "📚 Self-motivated with continuous learning mindset",
+            "⚡ Delivers clean, maintainable, and scalable code",
+            "🎯 Focus on user experience and performance optimization"
+        ]
+    
+    def current_goal(self):
+        return "Seeking opportunities to build impactful products with cutting-edge technologies"
+
+# Ready to contribute from Day 1! 🚀
+developer = AryanKaushik()
+print(developer.strengths())
 ```
 
 ---
 
-## 🎓 Learning Journey
+## 📈 Development Philosophy
+
+<div align="center">
 
 ```mermaid
-graph LR
-    A[HTML/CSS/JS] --> B[React.js]
-    B --> C[Redux Toolkit]
-    A --> D[Python]
-    D --> E[Django]
-    E --> F[Django REST Framework]
-    A --> G[Node.js]
-    G --> H[Express.js]
-    B --> I[Full Stack Developer]
-    F --> I
-    H --> I
+graph TD
+    A[Problem Understanding] --> B[Solution Design]
+    B --> C[Clean Code Implementation]
+    C --> D[Testing & Optimization]
+    D --> E[Documentation]
+    E --> F[Deployment]
+    F --> G[Continuous Improvement]
+    G --> A
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+    style F fill:#dfe6e9
+    style G fill:#a29bfe
 ```
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
+## 🎓 Technical Journey
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Aryankaushik541">Aryan Kaushik</a> - Let's build something amazing together!</i>
-</p>
+<div align="center">
+
+```mermaid
+timeline
+    title My Development Journey
+    2022 : Started with HTML/CSS/JavaScript
+         : Built first static websites
+    2023 : Learned React.js & Redux
+         : Explored Python & Django
+         : Created first full-stack apps
+    2024 : Mastered Node.js & Express
+         : Integrated AI/ML capabilities
+         : Built production-ready platforms
+    2025 : Advanced algorithm implementation
+         : AI-powered applications
+         : Enterprise-level projects
+         : Ready for professional challenges
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryankaushik541@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryankaushik541)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kaushik)
+
+### 💬 Open to Discuss
+
+- 💼 Full-time opportunities
+- 🚀 Freelance projects
+- 🤝 Open source collaborations
+- 💡 Tech discussions and knowledge sharing
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Building the future, one commit at a time" 🌟
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+*Last Updated: January 2025*
+
+</div>
