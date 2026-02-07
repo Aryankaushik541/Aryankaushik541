@@ -118,22 +118,6 @@ I'm a passionate **Full Stack Developer** specializing in building modern web ap
 
 **Tech:** React, Django
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryankaushik541&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankaushik541&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryankaushik541&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 - 🎓 Built **11+ repositories** with diverse tech stacks
