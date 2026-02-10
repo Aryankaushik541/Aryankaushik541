@@ -1,158 +1,192 @@
 <div align="center">
-  
-# Hi, I'm Aryan Kaushik 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+# Hey, I'm Aryan Kaushik 👋
 
-**Muzaffarpur, India** • **he/him** • **Aryankaushik541@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aryankaushik541)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:aryankaushik541@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aryankaushik541&color=00d9ff&style=flat)](https://github.com/Aryankaushik541)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Real+Solutions;Open+to+Collaborate" alt="Typing SVG" />
 
 </div>
 
----
+**📍 Muzaffarpur, India** | **📧 Aryankaushik541@gmail.com** | **🕐 UTC +5:30**
 
-## About Me
+I build web and mobile applications that solve real problems. Currently working on healthcare tech and exploring AI integration in practical applications.
 
-I'm a full-stack developer passionate about building practical solutions that solve real problems. Currently focused on healthcare tech and AI integration.
-
-**What I'm working on:**
-- Building a pharmaceutical management system for streamlining medical operations
-- Integrating AI capabilities into web applications
-- Contributing to open-source projects
-
-**Background:**
-- Started coding in college, fell in love with web development
-- Self-taught in React and Django through building real projects
-- Enjoy the challenge of turning complex requirements into simple, elegant solutions
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankaushik541)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Aryankaushik541)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryankaushik541@gmail.com)
 
 ---
 
-## 🏆 Achievement
+## 🏆 GitHub Achievement
 
 <div align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100" alt="Arctic Code Vault"/>
 
-### Arctic Code Vault Contributor ❄️
+**Arctic Code Vault Contributor**
 
-My code is part of the GitHub Archive Program, preserved in the Arctic Code Vault in Svalbard, Norway for 1000 years.
+My code is preserved in the GitHub Arctic Code Vault in Svalbard, Norway as part of the 2020 GitHub Archive Program.
 
 </div>
 
 ---
 
-## Tech Stack
+## 💻 What I Work With
 
-**Languages & Frameworks I work with:**
+**Frontend**  
+React • React Native • JavaScript • TypeScript • HTML/CSS • Tailwind
 
-Frontend: `React` `JavaScript` `HTML/CSS` `React Native`  
-Backend: `Django` `Node.js` `Express` `Python`  
-Database: `MongoDB` `PostgreSQL` `MySQL`  
-Tools: `Git` `VS Code` `Docker` `Postman`
+**Backend**  
+Django • Node.js • Express • Python • REST APIs
 
-Currently learning: `TypeScript` `Cloud Architecture` `Advanced ML`
+**Database & Tools**  
+MongoDB • PostgreSQL • MySQL • Git • Docker • VS Code • Postman
 
----
-
-## Projects
-
-### Pharmaceutical Company Management App
-*React Native • Node.js • MongoDB*
-
-A comprehensive management system I built for pharmaceutical companies with role-based access for different team members - from CEOs to medical representatives. Handles everything from medicine inventory to sales tracking.
-
-**Key features:**
-- 9 different user roles with specific permissions
-- Medicine database management
-- Sales and distribution tracking
-- Real-time dashboard for each role
-
-**Why I built this:** Saw the complexity in pharma operations and wanted to create something that actually simplifies their daily workflow.
+**Currently Learning**  
+Cloud Architecture • Advanced AI/ML • Microservices
 
 ---
 
-### White Beat AI Platform
-*React • Django • OpenAI API*
+## 🚀 Projects I've Built
 
-An AI-powered platform that leverages OpenAI's capabilities to provide intelligent responses and automation. Built separate dashboards for users and admins.
+### 💊 Pharmaceutical Management System
+**React Native • Node.js • MongoDB**
 
-**What it does:**
-- Integrates OpenAI for smart responses
-- User dashboard for interactions
-- Admin panel for monitoring and management
-- Clean, responsive interface
+A complete management solution for pharmaceutical companies that I developed to streamline their operations. The system handles multiple user roles from executives to field representatives.
 
-**Learning:** This project taught me a lot about API integration and handling async operations efficiently.
+**What it includes:**
+- Multi-role authentication system (9 different roles)
+- Medicine inventory and tracking
+- Sales distribution management
+- Role-specific dashboards with relevant data
+- Real-time updates and notifications
+
+**The challenge:** Designing a permission system that's both secure and flexible enough for different organizational structures. Spent considerable time understanding actual pharma workflows before building.
+
+[View Project →](https://github.com/Aryankaushik541/pharma-company-app)
 
 ---
 
-### E-Commerce Platform
-*React • Django REST • MongoDB*
+### 🤖 White Beat AI Platform
+**React • Django • OpenAI API**
 
-Full-featured online store with everything you'd expect - product browsing, cart, checkout, and an admin panel for managing inventory.
+An AI-powered platform that integrates OpenAI's capabilities to provide intelligent automation and responses. Built with separate interfaces for end users and administrators.
 
 **Features:**
-- Product catalog with search and filters
-- Shopping cart and checkout flow
-- Payment integration
+- OpenAI API integration for smart responses
+- User dashboard for interactions and history
+- Admin panel for monitoring and configuration
+- Responsive design that works across devices
+
+**What I learned:** Working with AI APIs taught me a lot about handling asynchronous operations, managing API costs, and designing fallback mechanisms for when things don't go as planned.
+
+[Frontend](https://github.com/Aryankaushik541/white-beat-frontend) • [Backend](https://github.com/Aryankaushik541/white-beat-backend)
+
+---
+
+### 🛒 Full-Stack E-Commerce Platform
+**React • Django REST Framework • MongoDB**
+
+A complete online shopping solution with everything from product browsing to checkout. Built both the customer-facing store and the admin panel for managing inventory.
+
+**Key features:**
+- Product catalog with search and filtering
+- Shopping cart with persistent state
+- Secure checkout and payment integration
 - Admin dashboard for inventory management
+- Order tracking and management
 - Responsive design with smooth animations
 
-**Challenge:** Getting the cart state management right across the app was tricky but rewarding.
+**Interesting part:** Implementing the cart state management across the app was tricky. Ended up using Context API with localStorage for persistence, which works really well.
+
+[Frontend](https://github.com/Aryankaushik541/ecommerce-react-frontend) • [Backend](https://github.com/Aryankaushik541/ecommerce-django-backend)
 
 ---
 
-### User Management System
-*Node.js • Express • MongoDB • React*
+### 👥 User Management System
+**Node.js • Express • MongoDB • React**
 
-Built this as part of an internship assessment. It's a complete user management solution with authentication and role-based permissions.
+Built this as part of an internship assessment at PurpleMerit. It's a comprehensive user management solution with proper authentication and role-based access control.
 
 **Includes:**
-- JWT-based authentication
+- JWT-based authentication system
 - Role-based access control (RBAC)
 - User analytics and reporting
-- Secure backend with proper validation
+- Secure backend with input validation
+- Clean, intuitive admin interface
 
-**What I learned:** Security best practices and proper API design patterns.
+**Takeaway:** This project really solidified my understanding of security best practices, proper API design, and the importance of input validation at every level.
+
+[View Project →](https://github.com/Aryankaushik541/user-management-system-purplemerit)
 
 ---
 
-### Other Projects
+### 🧬 Other Work
 
-**Zarves** - AI Agent system exploring automation capabilities  
-**Genetic Algorithm** - College project implementing optimization algorithms  
+**Zarves** - Experimental AI agent system exploring automation capabilities  
+**Genetic Algorithm** - Implementation of genetic algorithms for optimization problems (college project)  
 **Neverend Lifestyle** - Lifestyle brand website with React frontend and Django backend  
-**T-Shirt Store** - E-commerce platform for apparel with full checkout flow
+**T-Shirt Store** - E-commerce platform for apparel with complete checkout flow
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryankaushik541&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankaushik541&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryankaushik541&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankaushik541&layout=compact&theme=react&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryankaushik541&theme=react&hide_border=true)
 
 </div>
 
 ---
 
-## What I'm Looking For
+## 🎯 What I'm Up To
 
+**Current Focus:**
+- Scaling the pharmaceutical management system for production use
+- Learning more about cloud architecture and deployment strategies
+- Contributing to open-source projects when I find interesting ones
+
+**Looking For:**
 - Interesting projects to collaborate on
+- Freelance opportunities in full-stack development
 - Open source contributions
-- Freelance opportunities
-- Learning from other developers
+- Connecting with other developers
 
-Feel free to reach out if you want to discuss tech, collaborate on a project, or just chat about development!
+---
+
+## 💡 A Bit More About Me
+
+Started coding during college and quickly realized I enjoyed building things more than just learning theory. Most of what I know comes from building actual projects and solving real problems along the way.
+
+I prefer working on projects that have a clear purpose - whether it's making someone's workflow easier or solving a specific problem. The pharmaceutical system, for example, came from understanding the complexity of medical operations and wanting to simplify it.
+
+When I'm not coding, I'm usually reading about new tech, exploring different frameworks, or thinking about the next project to build.
+
+---
+
+## 📫 Get In Touch
+
+Feel free to reach out if you want to:
+- Collaborate on a project
+- Discuss tech and development
+- Talk about potential opportunities
+- Just chat about coding
+
+**Email:** Aryankaushik541@gmail.com  
+**LinkedIn:** [linkedin.com/in/aryankaushik541](https://linkedin.com/in/aryankaushik541)
 
 ---
 
 <div align="center">
 
-**📧 Aryankaushik541@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=Aryankaushik541&color=36BCF7&style=flat-square)
 
-*Thanks for stopping by!*
+*Thanks for visiting! ⭐️ Feel free to star any repos you find interesting.*
 
 </div>
