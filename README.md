@@ -1,341 +1,158 @@
 <div align="center">
   
-# 👋 Hey There, I'm Aryan Kaushik!
+# Hi, I'm Aryan Kaushik 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;React+%7C+Django+%7C+Node.js;Arctic+Code+Vault+Contributor+%E2%9D%84%EF%B8%8F;Building+Amazing+Solutions!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Muzaffarpur%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" />
-</p>
+**Muzaffarpur, India** • **he/him** • **Aryankaushik541@gmail.com**
 
-<p align="center">
-  <a href="https://linkedin.com/in/aryankaushik541"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aryankaushik541@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Aryankaushik541"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aryankaushik541)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:aryankaushik541@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aryankaushik541&color=00d9ff&style=flat)](https://github.com/Aryankaushik541)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## About Me
+
+I'm a full-stack developer passionate about building practical solutions that solve real problems. Currently focused on healthcare tech and AI integration.
+
+**What I'm working on:**
+- Building a pharmaceutical management system for streamlining medical operations
+- Integrating AI capabilities into web applications
+- Contributing to open-source projects
+
+**Background:**
+- Started coding in college, fell in love with web development
+- Self-taught in React and Django through building real projects
+- Enjoy the challenge of turning complex requirements into simple, elegant solutions
+
+---
+
+## 🏆 Achievement
 
 <div align="center">
 
-### ❄️ Arctic Code Vault Contributor
-<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="120" />
+### Arctic Code Vault Contributor ❄️
 
-**My code is preserved in the GitHub Arctic Code Vault for 1000 years!**
-
-*Part of the 2020 GitHub Archive Program - Code stored in Svalbard, Norway*
+My code is part of the GitHub Archive Program, preserved in the Arctic Code Vault in Svalbard, Norway for 1000 years.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Tech Stack
 
-```javascript
-const aryanKaushik = {
-    location: "Muzaffarpur, India 🇮🇳",
-    timezone: "UTC +5:30 (IST)",
-    email: "Aryankaushik541@gmail.com",
-    
-    currentRole: "Full Stack Developer",
-    currentFocus: ["AI Integration", "E-commerce Solutions", "Healthcare Tech"],
-    
-    expertise: {
-        frontend: ["React", "React Native", "JavaScript", "TypeScript", "HTML/CSS"],
-        backend: ["Django", "Node.js", "Express", "Python"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
-        ai_ml: ["OpenAI API", "Machine Learning", "Genetic Algorithms"],
-        tools: ["Git", "Docker", "VS Code", "Vercel", "Firebase"]
-    },
-    
-    learning: ["Cloud Architecture", "Advanced AI/ML", "Microservices"],
-    
-    achievements: [
-        "🏆 Arctic Code Vault Contributor",
-        "💊 Built Pharma Management System with 9 user roles",
-        "🤖 Developed AI-powered platforms with OpenAI",
-        "🛒 Created multiple full-stack e-commerce solutions",
-        "📱 Built cross-platform mobile apps with React Native"
-    ],
-    
-    funFact: "I turn coffee into code ☕️ → 💻",
-    motto: "Building the future, one commit at a time 🚀"
-};
-```
+**Languages & Frameworks I work with:**
+
+Frontend: `React` `JavaScript` `HTML/CSS` `React Native`  
+Backend: `Django` `Node.js` `Express` `Python`  
+Database: `MongoDB` `PostgreSQL` `MySQL`  
+Tools: `Git` `VS Code` `Docker` `Postman`
+
+Currently learning: `TypeScript` `Cloud Architecture` `Advanced ML`
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Projects
 
-<div align="center">
+### Pharmaceutical Company Management App
+*React Native • Node.js • MongoDB*
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,python,javascript,typescript,html,css,express,mongodb,postgresql,mysql&perline=6" />
+A comprehensive management system I built for pharmaceutical companies with role-based access for different team members - from CEOs to medical representatives. Handles everything from medicine inventory to sales tracking.
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,vercel,figma,tailwind,postman,npm&perline=5" />
+**Key features:**
+- 9 different user roles with specific permissions
+- Medicine database management
+- Sales and distribution tracking
+- Real-time dashboard for each role
 
-</div>
-
-<details>
-<summary><b>📋 Detailed Tech Stack</b></summary>
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</details>
+**Why I built this:** Saw the complexity in pharma operations and wanted to create something that actually simplifies their daily workflow.
 
 ---
 
-## 📊 GitHub Statistics
+### White Beat AI Platform
+*React • Django • OpenAI API*
+
+An AI-powered platform that leverages OpenAI's capabilities to provide intelligent responses and automation. Built separate dashboards for users and admins.
+
+**What it does:**
+- Integrates OpenAI for smart responses
+- User dashboard for interactions
+- Admin panel for monitoring and management
+- Clean, responsive interface
+
+**Learning:** This project taught me a lot about API integration and handling async operations efficiently.
+
+---
+
+### E-Commerce Platform
+*React • Django REST • MongoDB*
+
+Full-featured online store with everything you'd expect - product browsing, cart, checkout, and an admin panel for managing inventory.
+
+**Features:**
+- Product catalog with search and filters
+- Shopping cart and checkout flow
+- Payment integration
+- Admin dashboard for inventory management
+- Responsive design with smooth animations
+
+**Challenge:** Getting the cart state management right across the app was tricky but rewarding.
+
+---
+
+### User Management System
+*Node.js • Express • MongoDB • React*
+
+Built this as part of an internship assessment. It's a complete user management solution with authentication and role-based permissions.
+
+**Includes:**
+- JWT-based authentication
+- Role-based access control (RBAC)
+- User analytics and reporting
+- Secure backend with proper validation
+
+**What I learned:** Security best practices and proper API design patterns.
+
+---
+
+### Other Projects
+
+**Zarves** - AI Agent system exploring automation capabilities  
+**Genetic Algorithm** - College project implementing optimization algorithms  
+**Neverend Lifestyle** - Lifestyle brand website with React frontend and Django backend  
+**T-Shirt Store** - E-commerce platform for apparel with full checkout flow
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryankaushik541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankaushik541&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankaushik541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankaushik541&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryankaushik541&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankaushik541&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## What I'm Looking For
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryankaushik541&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
+- Interesting projects to collaborate on
+- Open source contributions
+- Freelance opportunities
+- Learning from other developers
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 💊 Pharmaceutical Company Management App
-[![Pharma App](https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=pharma-company-app&theme=tokyonight&hide_border=true)](https://github.com/Aryankaushik541/pharma-company-app)
-
-**Complete React Native application with 9 user roles**
-- 👥 Multi-role authentication (Admin, CEO, Manager, ABM, ZBM, District Manager, MR, Developer, Customer)
-- 💊 Medicine management system
-- 📊 Role-based dashboards
-- 🔐 Secure authentication & authorization
-
-**Tech:** React Native, Node.js, MongoDB, JWT
-
----
-
-### 🤖 White Beat AI Platform
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=white-beat-frontend&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=white-beat-backend&theme=tokyonight&hide_border=true" />
-</div>
-
-**AI-Powered platform with OpenAI integration**
-- 🤖 OpenAI API integration for intelligent responses
-- 👥 User & Admin dashboards
-- 🎨 Modern, responsive UI
-- 🔐 Secure authentication system
-
-**Tech:** React, Django, OpenAI API, REST Framework
-
----
-
-### 🛒 E-Commerce Solutions
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=ecommerce-react-frontend&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=ecommerce-django-backend&theme=tokyonight&hide_border=true" />
-</div>
-
-**Full-stack e-commerce platform**
-- 🛍️ Product catalog & shopping cart
-- 💳 Payment integration
-- 📊 Admin panel for inventory
-- 🎨 Creative theme with animations
-
-**Tech:** React, Django REST API, MongoDB, Stripe
-
----
-
-### 👥 User Management System
-[![User Management](https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=user-management-system-purplemerit&theme=tokyonight&hide_border=true)](https://github.com/Aryankaushik541/user-management-system-purplemerit)
-
-**Enterprise-grade user management with RBAC**
-- 🔐 JWT authentication
-- 👮 Role-based access control
-- 📊 User analytics
-- 🔒 Secure backend architecture
-
-**Tech:** Node.js, Express, MongoDB, React, JWT
-
----
-
-### 🧬 Other Notable Projects
-
-<div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=Zarves&theme=tokyonight&hide_border=true" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=Genetic-Algorithm&theme=tokyonight&hide_border=true" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryankaushik541&repo=Website&theme=tokyonight&hide_border=true" />
-</div>
-
-</div>
-
----
-
-## 💼 Professional Experience & Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Expertise Areas
-- ✅ Full-Stack Web Development
-- ✅ Mobile App Development (React Native)
-- ✅ AI/ML Integration (OpenAI, TensorFlow)
-- ✅ E-commerce Solutions
-- ✅ Healthcare Technology
-- ✅ RESTful API Design
-- ✅ Database Architecture
-- ✅ Authentication & Security
-
-</td>
-<td width="50%">
-
-### 📈 Key Achievements
-- 🏆 Arctic Code Vault Contributor
-- 📱 12+ Production-Ready Projects
-- 🤖 AI-Powered Platform Development
-- 💊 Healthcare Management Systems
-- 🛒 Multiple E-commerce Platforms
-- 👥 Enterprise User Management
-- 🔐 Secure Authentication Systems
-- 📊 Role-Based Access Control
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Focus & Learning
-
-```yaml
-Current Projects:
-  - AI-Powered Applications: "Scaling ML models for production"
-  - Healthcare Technology: "Pharmaceutical management solutions"
-  - E-Commerce Innovation: "Modern shopping experiences"
-  - Mobile Development: "Cross-platform React Native apps"
-
-Learning Path:
-  - Cloud Architecture: "AWS, Azure, Google Cloud"
-  - Advanced AI/ML: "Deep Learning, Neural Networks"
-  - Microservices: "Scalable distributed systems"
-  - DevOps: "CI/CD, Docker, Kubernetes"
-
-Open To:
-  - Freelance Projects: "Full-stack development"
-  - Collaborations: "Open-source contributions"
-  - Consulting: "Technical architecture & design"
-  - Mentoring: "Helping aspiring developers"
-```
-
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-
-### 🤝 I'm Open For
-
-💼 **Freelance Projects** | 🚀 **Startup Collaborations** | 🌟 **Open Source Contributions** | 📚 **Tech Mentoring**
-
-<br/>
-
-### 📧 Reach Out
-
-<p>
-  <a href="mailto:Aryankaushik541@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Aryankaushik541%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/aryankaushik541">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aryankaushik541">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-### 📊 Profile Stats
-
-<img src="https://komarev.com/ghpvc/?username=Aryankaushik541&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Aryankaushik541?label=Followers&style=for-the-badge&color=00d9ff" />
-<img src="https://img.shields.io/github/stars/Aryankaushik541?label=Total%20Stars&style=for-the-badge&color=00d9ff" />
-
-</div>
+Feel free to reach out if you want to discuss tech, collaborate on a project, or just chat about development!
 
 ---
 
 <div align="center">
 
-### ⭐️ From [Aryan Kaushik](https://github.com/Aryankaushik541) with ❤️
+**📧 Aryankaushik541@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-*💻 Building the future, one commit at a time 🚀*
+*Thanks for stopping by!*
 
 </div>
