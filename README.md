@@ -1,16 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aryan Kaushik 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Real+Solutions;Open+to+Collaborate" alt="Typing SVG" />
-
-</div>
-
-**📍 Muzaffarpur, India** | **📧 Aryankaushik541@gmail.com** | **🕐 UTC +5:30**
-
-I build web and mobile applications that solve real problems. Currently working on healthcare tech and exploring AI integration in practical applications.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](<div align="center">
 
 # Hey, I'm Aryan Kaushik 👋
 
